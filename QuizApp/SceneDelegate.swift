@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  QuizApp
 //
-//  Created by Abhishek Jariwala on 1/22/23.
-//
 
 import UIKit
 
