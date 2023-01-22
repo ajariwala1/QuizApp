@@ -20,3 +20,5 @@ https://github.com/ajariwala1/QuizApp_Completed
 - Use of Swift struct and functions.
 - Change UI elements using Swift.
 - Refactor code using MVC pattern.
+- Mutating functions.
+
